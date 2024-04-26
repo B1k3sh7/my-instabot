@@ -1,6 +1,6 @@
 Library used: https://pypi.org/project/instaloader/
-This code aims to achieve three objectives related to Instagram:
 
+This code aims to achieve three objectives related to Instagram:
 
 Profile Details Search: This feature allows you to scrape and retrieve information about a specific public Instagram profile.
 
